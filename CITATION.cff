@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Peptide Reference Dataset"
+type: dataset
+authors:
+  - name: "Volta Peptides"
+    website: "https://voltapeptides.com"
+version: "1.0.0"
+date-released: "2026-11-19"
+license: CC-BY-4.0
+url: "https://voltapeptides.com/catalog"
+repository-code: "https://github.com/teamcobleio-cyber/Peptide-Reference-Dataset"
+abstract: >-
+  Sequences, molecular formulas, average and monoisotopic masses, CAS registry
+  numbers, PubChem and UNII identifiers for 107 research peptides, proteins,
+  metal complexes and small molecules, with 90 catalogue products linked to
+  their source pages.
+keywords:
+  - peptides
+  - chemistry
+  - molecular weight
+  - CAS registry number
+  - dataset
